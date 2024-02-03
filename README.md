@@ -1,26 +1,29 @@
-Hi and thanks for visiting my github;
+## Making Changes to the Code
 
-There are some changes you should do with your code before.
+Before proceeding with your code, please follow these steps:
 
-First be sure you have installed Python on your device.
+1. Ensure that Python is installed on your device.
 
-Then Edit code with any IDE or Code editor, even Notepad.
+2. Use any IDE or code editor, including Notepad, to edit the code.
 
-Read the lines wich have # and edit main code by those hints.
+3. Pay attention to the lines marked with "#" for helpful hints on editing the main code.
 
-There is an additional part in line 19 that its not necessery.
+4. Line 19 contains additional information that may not be necessary.
 
------------ ----------- -------------- ----------- ----------- 
+---
 
-This code is made for windows and if you set down the other versions
-eg. (MacOS, Lynux,...)
-Or even on diffrent browsers 
-eg. (Safari, Opera, Firefox, Tor,...
+## Compatibility
 
-create a fork and take a contribution on Github or send them to this email address as a .py file to be published here.
-kkomeilizadeh@gmail.com
+This code is primarily designed for Windows, but it can also be adapted for other platforms such as MacOS, Linux, and different web browsers like Safari, Opera, Firefox, and Tor.
 
------------ ----------- -------------- ----------- ----------- 
+---
 
-Hope you enjoy.
-Kooroshkz.com
+## Contribution
+
+Feel free to fork this repository and contribute by submitting a pull request.
+
+---
+
+## Enjoy
+
+Visit [Kooroshkz.com](https://www.kooroshkz.com) for more information and updates.
